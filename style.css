@@ -7,22 +7,22 @@
 
 @font-face {
   font-family: Regular;
-  src: url(assets/fonts/PlusJakartaSans-Regular.woff2);
+  src: url('/assets/fonts/PlusJakartaSans-Regular.woff2');
 }
 
 @font-face {
   font-family: Medium;
-  src: url(assets/fonts/PlusJakartaSans-Medium.woff2);
+  src: url('/assets/fonts/PlusJakartaSans-Medium.woff2');
 }
 
 @font-face {
   font-family: Light;
-  src: url(assets/fonts/PlusJakartaSans-Light.woff2);
+  src: url('/assets/fonts/PlusJakartaSans-Light.woff2');
 }
 
 @font-face {
   font-family: Bold;
-  src: url(assets/fonts/PlusJakartaSans-Bold.woff2);
+  src: url('/assets/fonts/PlusJakartaSans-Bold.woff2');
 }
 
 /*Fonts*/
